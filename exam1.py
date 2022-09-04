@@ -8,3 +8,5 @@ for i in coin_list:
     n%= i
 
 print(count)
+
+# 정답 ; 6
