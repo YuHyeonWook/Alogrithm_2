@@ -16,3 +16,4 @@ result += (m-count) * second
 
 
 print(result)
+
