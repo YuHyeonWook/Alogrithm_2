@@ -25,4 +25,3 @@ while True:
 
 print(result)
 
-# 정답 : 46
